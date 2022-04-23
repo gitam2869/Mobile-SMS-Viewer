@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_caption">12sp</dimen>
+    <dimen name="text_size_message">16sp</dimen>
+    <dimen name="text_size_heading">20sp</dimen>
+    <dimen name="text_size_heading_large">28sp</dimen>
+    <dimen name="text_size_heading_extra_large">32sp</dimen>
+
+    <dimen name="item_horizontal_padding">16dp</dimen>
+    <dimen name="item_vertical_padding">16dp</dimen>
+
+    <dimen name="item_horizontal_margin">16dp</dimen>
+    <dimen name="item_vertical_margin">16dp</dimen>
+
+    <dimen name="sms_icon_width">40dp</dimen>
+    <dimen name="sms_icon_height">40dp</dimen>
+
+    <dimen name="heading_vertical_margin">16dp</dimen>
+    <dimen name="layout_vertical_large_margin">32dp</dimen>
+    <dimen name="layout_vertical_horizontal_margin">32dp</dimen>
+    <dimen name="recyclerview_vertical_padding">16dp</dimen>
+    <dimen name="progressBar_width">60dp</dimen>
+    <dimen name="progressBar_height">60dp</dimen>
+
+    <dimen name="card_radius">20dp</dimen>
+
+</resources>

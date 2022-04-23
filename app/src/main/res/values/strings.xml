@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kutumb Challenge</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="otp_viewer">OTP Viewer</string>
+    <string name="permission_message">Give permission to show sms.</string>
+</resources>
